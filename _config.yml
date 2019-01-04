@@ -2,4 +2,3 @@ name: Flex
 markdown: redcarpet
 pygments: true
 baseurl: "https://mmotorsports.github.io/mreyes"
-permalink: /mreyes/:year/:month/:day/:title/
